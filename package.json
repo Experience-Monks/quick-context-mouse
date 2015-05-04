@@ -9,7 +9,11 @@
     "email": "me@mikkoh.com",
     "url": "https://github.com/mikkoh"
   },
-  "dependencies": {},
+  "dependencies": {
+    "apply-selector-and-css": "^1.1.1",
+    "dom-style": "0.0.3",
+    "merge": "^1.2.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "node test.js"
