@@ -1,0 +1,28 @@
+{
+  "name": "quick-context-mouse",
+  "version": "1.0.0",
+  "description": "Create context aware mouse pointers",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Mikko Haapoja",
+    "email": "me@mikkoh.com",
+    "url": "https://github.com/mikkoh"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "quick,ui,context,mouse,pointer,cursor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/quick-context-mouse.git"
+  },
+  "homepage": "https://github.com/Jam3/quick-context-mouse",
+  "bugs": {
+    "url": "https://github.com/Jam3/quick-context-mouse/issues"
+  }
+}
